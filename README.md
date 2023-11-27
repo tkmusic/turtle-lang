@@ -1,6 +1,5 @@
 # Turtle Programming Language
 
-![Turtle Logo](link_to_your_logo.png)
 
 Turtle is an open-source interpreted programming language designed with a focus on readability and simplicity. Drawing inspiration from languages like Python, Turtle aims to provide a user-friendly experience for both beginners and experienced developers.
 
