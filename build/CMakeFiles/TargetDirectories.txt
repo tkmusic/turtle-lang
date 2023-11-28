@@ -1,0 +1,4 @@
+C:/Users/tonik/Documents/GitHub/turtle-lang/build/CMakeFiles/turtle.dir
+C:/Users/tonik/Documents/GitHub/turtle-lang/build/CMakeFiles/INSTALL.dir
+C:/Users/tonik/Documents/GitHub/turtle-lang/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tonik/Documents/GitHub/turtle-lang/build/CMakeFiles/ZERO_CHECK.dir
